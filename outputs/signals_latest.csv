@@ -21665,3 +21665,11 @@ date,ticker,direction,alpha_name
 2026-05-12,USO,1,alpha_volatility_breakout
 2026-05-12,XLE,1,alpha_volatility_breakout
 2026-05-12,XLK,1,alpha_volatility_breakout
+2026-05-13,EEM,1,alpha_volatility_breakout
+2026-05-13,GLD,1,alpha_volatility_breakout
+2026-05-13,IWM,1,alpha_volatility_breakout
+2026-05-13,QQQ,1,alpha_volatility_breakout
+2026-05-13,SPY,1,alpha_volatility_breakout
+2026-05-13,USO,1,alpha_volatility_breakout
+2026-05-13,XLE,1,alpha_volatility_breakout
+2026-05-13,XLK,1,alpha_volatility_breakout
