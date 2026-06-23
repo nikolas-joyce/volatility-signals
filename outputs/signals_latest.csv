@@ -1409,7 +1409,6 @@ date,ticker,direction,alpha_name
 2011-05-13,QQQ,1,alpha_volatility_breakout
 2011-05-13,SPY,1,alpha_volatility_breakout
 2011-05-13,TLT,1,alpha_volatility_breakout
-2011-05-13,XLE,1,alpha_volatility_breakout
 2011-05-13,XLK,1,alpha_volatility_breakout
 2011-05-16,GLD,1,alpha_volatility_breakout
 2011-05-16,IWM,1,alpha_volatility_breakout
@@ -1550,7 +1549,6 @@ date,ticker,direction,alpha_name
 2011-07-07,QQQ,1,alpha_volatility_breakout
 2011-07-07,SPY,1,alpha_volatility_breakout
 2011-07-07,TLT,1,alpha_volatility_breakout
-2011-07-07,XLE,1,alpha_volatility_breakout
 2011-07-08,EEM,1,alpha_volatility_breakout
 2011-07-08,GLD,1,alpha_volatility_breakout
 2011-07-08,IWM,1,alpha_volatility_breakout
@@ -5289,7 +5287,6 @@ date,ticker,direction,alpha_name
 2014-06-02,TLT,1,alpha_volatility_breakout
 2014-06-02,USO,1,alpha_volatility_breakout
 2014-06-02,XLE,1,alpha_volatility_breakout
-2014-06-02,XLF,1,alpha_volatility_breakout
 2014-06-02,XLK,1,alpha_volatility_breakout
 2014-06-03,EEM,1,alpha_volatility_breakout
 2014-06-03,QQQ,1,alpha_volatility_breakout
@@ -6361,7 +6358,6 @@ date,ticker,direction,alpha_name
 2015-02-11,QQQ,1,alpha_volatility_breakout
 2015-02-11,SPY,1,alpha_volatility_breakout
 2015-02-11,TLT,1,alpha_volatility_breakout
-2015-02-11,XLF,1,alpha_volatility_breakout
 2015-02-11,XLK,1,alpha_volatility_breakout
 2015-02-12,IWM,1,alpha_volatility_breakout
 2015-02-12,QQQ,1,alpha_volatility_breakout
@@ -6947,7 +6943,6 @@ date,ticker,direction,alpha_name
 2015-08-12,XLF,1,alpha_volatility_breakout
 2015-08-13,QQQ,1,alpha_volatility_breakout
 2015-08-14,QQQ,1,alpha_volatility_breakout
-2015-08-14,XLF,1,alpha_volatility_breakout
 2015-08-17,QQQ,1,alpha_volatility_breakout
 2015-08-17,XLF,1,alpha_volatility_breakout
 2015-08-18,QQQ,1,alpha_volatility_breakout
@@ -12029,7 +12024,6 @@ date,ticker,direction,alpha_name
 2019-07-15,SPY,1,alpha_volatility_breakout
 2019-07-15,TLT,1,alpha_volatility_breakout
 2019-07-15,USO,1,alpha_volatility_breakout
-2019-07-15,XLE,1,alpha_volatility_breakout
 2019-07-15,XLF,1,alpha_volatility_breakout
 2019-07-15,XLK,1,alpha_volatility_breakout
 2019-07-16,EEM,1,alpha_volatility_breakout
@@ -21854,3 +21848,9 @@ date,ticker,direction,alpha_name
 2026-06-22,TLT,1,alpha_volatility_breakout
 2026-06-22,USO,1,alpha_volatility_breakout
 2026-06-22,XLK,1,alpha_volatility_breakout
+2026-06-23,EEM,1,alpha_volatility_breakout
+2026-06-23,IWM,1,alpha_volatility_breakout
+2026-06-23,QQQ,1,alpha_volatility_breakout
+2026-06-23,SPY,1,alpha_volatility_breakout
+2026-06-23,USO,1,alpha_volatility_breakout
+2026-06-23,XLK,1,alpha_volatility_breakout
