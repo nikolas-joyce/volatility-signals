@@ -21912,3 +21912,9 @@ date,ticker,direction,alpha_name
 2026-07-08,SPY,1,alpha_volatility_breakout
 2026-07-08,XLF,1,alpha_volatility_breakout
 2026-07-08,XLK,1,alpha_volatility_breakout
+2026-07-09,EEM,1,alpha_volatility_breakout
+2026-07-09,IWM,1,alpha_volatility_breakout
+2026-07-09,QQQ,1,alpha_volatility_breakout
+2026-07-09,SPY,1,alpha_volatility_breakout
+2026-07-09,XLF,1,alpha_volatility_breakout
+2026-07-09,XLK,1,alpha_volatility_breakout
