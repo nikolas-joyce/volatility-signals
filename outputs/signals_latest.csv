@@ -22068,3 +22068,10 @@ date,ticker,direction,alpha_name
 2026-08-06,XLE,1,alpha_volatility_breakout
 2026-08-06,XLF,1,alpha_volatility_breakout
 2026-08-06,XLK,1,alpha_volatility_breakout
+2026-08-07,EEM,1,alpha_volatility_breakout
+2026-08-07,IWM,1,alpha_volatility_breakout
+2026-08-07,QQQ,1,alpha_volatility_breakout
+2026-08-07,SPY,1,alpha_volatility_breakout
+2026-08-07,XLE,1,alpha_volatility_breakout
+2026-08-07,XLF,1,alpha_volatility_breakout
+2026-08-07,XLK,1,alpha_volatility_breakout
