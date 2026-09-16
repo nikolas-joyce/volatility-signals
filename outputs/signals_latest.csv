@@ -22264,3 +22264,11 @@ date,ticker,direction,alpha_name
 2026-09-11,XLE,1,alpha_volatility_breakout
 2026-09-11,XLF,1,alpha_volatility_breakout
 2026-09-11,XLK,1,alpha_volatility_breakout
+2026-09-14,EEM,1,alpha_volatility_breakout
+2026-09-14,IWM,1,alpha_volatility_breakout
+2026-09-14,QQQ,1,alpha_volatility_breakout
+2026-09-14,SPY,1,alpha_volatility_breakout
+2026-09-14,USO,1,alpha_volatility_breakout
+2026-09-14,XLE,1,alpha_volatility_breakout
+2026-09-14,XLF,1,alpha_volatility_breakout
+2026-09-14,XLK,1,alpha_volatility_breakout
