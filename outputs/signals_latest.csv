@@ -22411,3 +22411,8 @@ date,ticker,direction,alpha_name
 2026-10-14,USO,1,alpha_volatility_breakout
 2026-10-14,XLE,1,alpha_volatility_breakout
 2026-10-14,XLK,1,alpha_volatility_breakout
+2026-10-15,QQQ,1,alpha_volatility_breakout
+2026-10-15,SPY,1,alpha_volatility_breakout
+2026-10-15,USO,1,alpha_volatility_breakout
+2026-10-15,XLE,1,alpha_volatility_breakout
+2026-10-15,XLK,1,alpha_volatility_breakout
