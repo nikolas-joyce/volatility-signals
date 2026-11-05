@@ -22478,3 +22478,6 @@ date,ticker,direction,alpha_name
 2026-11-02,USO,1,alpha_volatility_breakout
 2026-11-02,XLE,1,alpha_volatility_breakout
 2026-11-02,XLF,1,alpha_volatility_breakout
+2026-11-03,USO,1,alpha_volatility_breakout
+2026-11-03,XLE,1,alpha_volatility_breakout
+2026-11-03,XLF,1,alpha_volatility_breakout
